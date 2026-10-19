@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-07\\Music\\Vankov\\khokhlov_pr9_v10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71AEE732-8813-4252-898A-ED115E0A8E87}|khokhlov_pr9_v10.vcxproj|C:\\Users\\st310-07\\Music\\Vankov\\khokhlov_pr9_v10\\khokhlov_pr9_v10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71AEE732-8813-4252-898A-ED115E0A8E87}|khokhlov_pr9_v10.vcxproj|solutionrelative:khokhlov_pr9_v10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "khokhlov_pr9_v10.cpp",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Music\\Vankov\\khokhlov_pr9_v10\\khokhlov_pr9_v10.cpp",
+              "RelativeDocumentMoniker": "khokhlov_pr9_v10.cpp",
+              "ToolTip": "C:\\Users\\st310-07\\Music\\Vankov\\khokhlov_pr9_v10\\khokhlov_pr9_v10.cpp",
+              "RelativeToolTip": "khokhlov_pr9_v10.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-08T10:19:08.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
